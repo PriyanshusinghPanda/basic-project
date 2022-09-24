@@ -1,4 +1,5 @@
 import random
+print("Rock, Paper, Scissors...")
 a = list(('rock', 'paper', 'scissor'))
 def game(d,b):
     if b=='rock':
